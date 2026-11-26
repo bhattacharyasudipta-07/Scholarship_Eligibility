@@ -42,7 +42,9 @@ The codebase is organized as a single self-contained Python script (`scholarship
 2. Open a terminal or command prompt in the script directory.
 3. Run the program:
 
-   #Developer Sudipta Bhattacharya
+   #Developer: Sudipta Bhattacharya
+
+   
 python scholarship_screening.py
 
 
